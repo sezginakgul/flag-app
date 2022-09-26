@@ -52,6 +52,8 @@ flag-app (folder)
 - CSS Properties for Texts-Font Families-Links
 - CSS Overflow Property-The float Property-Opacity 
 - Transparency-Units in CSS
+- Bootstrap
+- Bootstrap Cards
 - Javascript DOM
 - Javascript Events
 - Javascript Functions
